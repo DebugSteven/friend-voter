@@ -1,0 +1,13 @@
+[package]
+name = "friend_voter"
+version = "0.1.0"
+authors = ["DebugSteven <debugsteven@gmail.com>"]
+
+[dependencies]
+scraper = "0.4.0"
+csv = "1.0.0-beta.5"
+rustc-serialize = "0.3.24"
+serde = "1"
+serde_derive = "1"
+string_cache = "0.7"
+regex = "0.2.2"
